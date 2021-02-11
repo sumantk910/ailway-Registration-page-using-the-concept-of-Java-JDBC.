@@ -1,0 +1,2 @@
+# ailway-Registration-page-using-the-concept-of-Java-JDBC.
+I have used window builders feature of java eclipse ide to implement java swing class. It has numbers of the text filed, password field which directly interacts with SQL Database to Store information. It has a feature of recheck the password and email address. It links with another page where a person can enter his email id and password to log in and observe their data. Only authorize person can log in.
